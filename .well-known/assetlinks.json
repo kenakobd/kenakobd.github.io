@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.kenakobd.twa",
+        "sha256_cert_fingerprints": ["5C:9A:EB:E5:7A:B8:2B:10:C0:8E:20:7F:1E:BE:26:26:D7:72:20:B3:16:42:08:5C:E9:00:9D:12:7D:07:DD:A7"]
+      }
+    }]
